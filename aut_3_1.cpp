@@ -1,5 +1,4 @@
 /*
-  Archivo: Apellido_Nombre_Unidad3_Tema1.cpp
   Descripcion: Implementacion en C++ del "Sistema Integral de Monitoreo de Produccion Industrial"
   - 4 arreglos unidimensionales (produccion, horasOperacion, consumoEnergia, temperaturaMaquinas)
   - Uso de funciones para cada entrada y analisis
