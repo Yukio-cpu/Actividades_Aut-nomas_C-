@@ -1,11 +1,7 @@
 # Actividades Autónomas Python
 
-Las Actividades estan enumeradas como Nombre_Apellido_Unidad_Semana
+Las Actividades estan enumeradas como Nombre_Apellido_Unidad_Semana_Tema
 
-Ejemplo : act_1_2.cpp
+Ejemplo : Pepito_Peña_U2_S3_T4
 
-Esa seria la Actividad del Tema 2 de la Unidad 1
-
-En caso de haber más de una actividad por tema le agregaré un número más
-
-Ejemplo : act_1_2_2.cpp
+Esa seria la Actividad del Tema 4 de la Unidad 2, Semana 3
